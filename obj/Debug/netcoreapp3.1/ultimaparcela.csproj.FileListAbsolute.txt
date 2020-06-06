@@ -1,0 +1,11 @@
+C:\Users\Maria Luiza\Documents\Luiza\ultimaparcela\ultimaparcela\obj\Debug\netcoreapp3.1\ultimaparcela.csprojAssemblyReference.cache
+C:\Users\Maria Luiza\Documents\Luiza\ultimaparcela\ultimaparcela\obj\Debug\netcoreapp3.1\ultimaparcela.AssemblyInfoInputs.cache
+C:\Users\Maria Luiza\Documents\Luiza\ultimaparcela\ultimaparcela\obj\Debug\netcoreapp3.1\ultimaparcela.AssemblyInfo.cs
+C:\Users\Maria Luiza\Documents\Luiza\ultimaparcela\ultimaparcela\bin\Debug\netcoreapp3.1\ultimaparcela.exe
+C:\Users\Maria Luiza\Documents\Luiza\ultimaparcela\ultimaparcela\bin\Debug\netcoreapp3.1\ultimaparcela.deps.json
+C:\Users\Maria Luiza\Documents\Luiza\ultimaparcela\ultimaparcela\bin\Debug\netcoreapp3.1\ultimaparcela.runtimeconfig.json
+C:\Users\Maria Luiza\Documents\Luiza\ultimaparcela\ultimaparcela\bin\Debug\netcoreapp3.1\ultimaparcela.runtimeconfig.dev.json
+C:\Users\Maria Luiza\Documents\Luiza\ultimaparcela\ultimaparcela\bin\Debug\netcoreapp3.1\ultimaparcela.dll
+C:\Users\Maria Luiza\Documents\Luiza\ultimaparcela\ultimaparcela\bin\Debug\netcoreapp3.1\ultimaparcela.pdb
+C:\Users\Maria Luiza\Documents\Luiza\ultimaparcela\ultimaparcela\obj\Debug\netcoreapp3.1\ultimaparcela.dll
+C:\Users\Maria Luiza\Documents\Luiza\ultimaparcela\ultimaparcela\obj\Debug\netcoreapp3.1\ultimaparcela.pdb
